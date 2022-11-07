@@ -1,5 +1,7 @@
 # CC3K - CS 246 Final Project
 
+![image](https://user-images.githubusercontent.com/76599851/200393496-b7a886a8-661f-4ce2-8f0d-07b0c5f7d684.png)
+
 [![C/C++ CI](https://github.com/leungjch/cc3k/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/leungjch/cc3k/actions/workflows/c-cpp.yml)
 
 ## Setup
